@@ -1,16 +1,10 @@
-# Waste-Classifier-Model
-Absolutely! Here’s a beginner-friendly `README.md` template for your **Waste Classifier** Teachable Machine project. You can copy and paste this into your GitHub repository’s README file, and customize the sections as needed.
-
----
-
 # Waste Classifier using Teachable Machine
+
+-----------------------------------------------------------------------------------------------------------------------------------------
 
 This project is a **waste classifier** built using [Google Teachable Machine](https://teachablemachine.withgoogle.com/). It uses machine learning to identify and sort different types of waste (like plastic, paper, glass, etc.) from images.  
 No coding was required to build or train the model-everything was done using Teachable Machine’s easy-to-use interface!
 
-## Demo
-
-*Add screenshots or a link to your Teachable Machine project or demo video here if you have one.*
 
 ## How It Works
 
@@ -35,7 +29,7 @@ No coding was required to build or train the model-everything was done using Tea
 - Cardboard
 - Organic
 
-*(Edit this list to match your actual categories.)*
+
 
 ## Files in This Repository
 
@@ -60,20 +54,5 @@ For more details, see the [Teachable Machine export guide](https://teachablemach
 ## Credits
 
 - Model trained and exported using [Teachable Machine by Google](https://teachablemachine.withgoogle.com/)
-- Project by [Your Name]  
-  *(Add your name or team name here)*
+- Project by Sahithi Cinchalapu  
 
-## License
-
-*Specify a license if you want (for example, MIT License). If unsure, you can leave this section out.*
-
----
-
-**Tip:**  
-You can add images by uploading them to the repo and using Markdown:  
-`![Alt-
-
-Let me know if you’d like to add more details or sections!
-
----
-Answer from Perplexity: pplx.ai/share
